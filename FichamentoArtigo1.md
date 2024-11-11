@@ -1,7 +1,7 @@
 
-# ChatScratch: An AI-Augmented System Toward Autonomous Visual Programming Learning for Children Aged 6-12
+# _ChatScratch: An AI-Augmented System Toward Autonomous Visual Programming Learning for Children Aged 6-12_
 
-Chen, Liuqing; Xiao, Shuhong; Chen, Yunnong; Wu, Ruoyu; Song, Yaxuan; Sun, Lingyun. "ChatScratch: An AI-Augmented System Toward Autonomous Visual Programming Learning for Children Aged 6-12," in Proceedings of the CHI Conference on Human Factors in Computing Systems, May 11, 2024. doi: [10.1145/3613904.3642229](https://dl.acm.org/doi/10.1145/3613904.3642229)
+Chen, Liuqing; Xiao, Shuhong; Chen, Yunnong; Wu, Ruoyu; Song, Yaxuan; Sun, Lingyun. _"ChatScratch: An AI-Augmented System Toward Autonomous Visual Programming Learning for Children Aged 6-12," in Proceedings of the CHI Conference on Human Factors in Computing Systems, May 11, 2024_. doi: [10.1145/3613904.3642229](https://dl.acm.org/doi/10.1145/3613904.3642229)
 
 ## 1. Fichamento de Conteúdo
 
