@@ -1,7 +1,7 @@
 
-# Students’ Experiences of Using ChatGPT in an Undergraduate Programming Course
+# _Students’ Experiences of Using ChatGPT in an Undergraduate Programming Course_
 
-P. Haindl and G. Weinberger, "Students’ Experiences of Using ChatGPT in an Undergraduate Programming Course," in IEEE Access, vol. 12, pp. 43519-43529, 2024. doi: [10.1109/ACCESS.2024.3380909](https://ieeexplore.ieee.org/document/10478015)
+P. Haindl and G. Weinberger, _"Students’ Experiences of Using ChatGPT in an Undergraduate Programming Course," in IEEE Access_, vol. 12, pp. 43519-43529, 2024. doi: [10.1109/ACCESS.2024.3380909](https://ieeexplore.ieee.org/document/10478015)
 
 ## 1. Fichamento de Conteúdo
 
