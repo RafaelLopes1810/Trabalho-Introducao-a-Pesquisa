@@ -1,37 +1,34 @@
-# Equipe
+# Título do trabalho
 
 * Rafael de Oliveira Caldeira Lopes
 * Arthur Nunes Gontijo de Barcellos
 * Carlos Magno Ferreira Silva
 * Lesandro Ponciano dos Santos
 
+## Introdução
 
-## Tema
+1. A área da Engenharia de Software tratada neste trabalho é.... _[incluir a frase exatamente como ela aparece no seu projeto]_
+1. O problema que este trabalho busca resolver nessa área é... _[incluir a frase exatamente como ela aparece no seu projeto]_
+1. Resolver este problema é relevante por que...
+1. O objetivo geral deste trabalho é _[incluir a frase exatamente como ela aparece no seu projeto]_
+1. Os *três* objetivos específicos deste trabalho são _[incluir exatamente como aparece no seu projeto]_
 
-O tema tratado na pesquisa é o uso de IAs generativas para auxiliar alunos de graduação no aprendizado de programação de softwares.
+## Fundamentação Teórica
 
+1. O conceito/teoria principal associado a este trabalho é ....  A sua definição neste trabalho  é conforme definido no trabalho .... pelo autor ...
+1. O conceito/teoria secundário associado a este trabalho é ....  A sua definição neste trabalho é conforme definido no trabalho .... pelo autor ...
+1. O conceito/teoria terciário associado a este trabalho é ....  A sua definição neste trabalho é conforme definido no trabalho .... pelo autor ...
 
-## Problema
+## Trabalhos Relacionados
 
-O problema a ser resolvido na pesquisa é: De que maneira a inteligência artificial pode apoiar alunos de graduação no aprendizado de programação? Ferramentas de IA são mais eficazes em orientações interativas ou em geração assistida de código? Qual é o impacto dessas abordagens no desempenho e na retenção de conhecimento desses alunos?
-
-
-## Objetivo Geral
-
-O objetivo geral a ser alcançado nesta pesquisa é investigar como ferramentas de IA podem melhorar o aprendizado de programação de software entre estudantes de graduação.
-
-
-## Objetivos Específicos
-
-Os objetivos específicos são:
-* Avaliar a eficácia de orientadores virtuais baseados em IA generativa para o ensino de conceitos de programação entre alunos de graduação.
-* Comparar o desempenho de alunos de graduação que utilizam IA generativa para geração assistida de código com aqueles que seguem métodos tradicionais de ensino.
-* Analisar a retenção de conhecimento e a capacidade de resolver problemas complexos dos alunos após o uso de ferramentas de IAs generativas para aprendizado de programação.
-
+1. O trabalho mais relacionado é ...., publicado no ano ..., por que ....
+1. O segundo trabalho mais relacionado é .... , publicado no ano ..., por que ....
+1. O terceiro trabalho mais relacionado é ...., publicado no ano ...,  por que ....
 
 ## Materiais e Métodos
-As ferramentas, dados, métricas e métodos utilizados são:
-* Ferramentas de IA como ChatGPT e Codex, que fornecem assistência em tempo real para a geração de código e explicações interativas de conceitos de programação.
-* Dados de desempenho e retenção de conhecimento serão coletados por meio de testes práticos e teóricos com alunos de graduação, comparando grupos que utilizam IA e que não utilizam.
-* As métricas de avaliação incluirão: tempo para completar exercícios de programação, quantidade de erros, complexidade das soluções e qualidade das implementações.
-* Análises estatísticas, como ANOVA e correlação de Spearman, serão aplicadas para verificar a relação entre o uso de IA e o desempenho acadêmico dos estudantes.
+
+1. O tipo de pesquisa adotado neste trabalho é ...., por que ...
+1. Os materiais utilizados neste trabalho são .... [ex.: software, computadores, dados, etc]
+1. Os métodos empregados neste trabalho são .... [ex.: método de amostragem, método de análise de correlação, método de agrupamento, etc]
+1. As métricas de avaliação são .... [ex.: tempo de resposta, taxa de erros, mutation score, cobertura, latência, etc]
+1. As etapa de execução do trabalho são .... [listar as etapa de execução]
