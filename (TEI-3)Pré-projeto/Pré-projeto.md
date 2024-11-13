@@ -3,7 +3,7 @@
 * Rafael de Oliveira Caldeira Lopes
 * Arthur Nunes Gontijo de Barcellos
 * Carlos Magno Ferreira Silva
-* Lesandro Ponciano dos Santos
+* Lesandro Ponciano dos Santos (orientador de acadêmico)
 
 ## Introdução
 
