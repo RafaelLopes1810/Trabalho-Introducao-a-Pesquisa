@@ -28,10 +28,11 @@
 1. O trabalho mais relacionado é "Students’ Experiences of Using ChatGPT in an Undergraduate Programming Course" [10.1109/ACCESS.2024.3380909](https://doi.org/10.1109/ACCESS.2024.3380909), publicado no ano 2024, por que ele analisa a experiencia e feedback dos estudantes de um curso de programação, com foco no uso do ChatGPT para auxiliar seu aprendizado.
 2. O segundo trabalho mais relacionado é "Does ChatGPT Help Novice Programmers Write Better Code? Results From Static Code Analysis" [10.1109/ACCESS.2024.3445432](https://doi.org/10.1109/ACCESS.2024.3445432), publicado no ano 2024, por que ele investiga o impacto do ChatGPT na qualidade do codigo dos estudantes de um curso de programação.
 3. O terceiro trabalho mais relacionado é "Can Autograding of Student-Generated Questions Quality by ChatGPT Match Human Experts?" [10.1109/TLT.2024.3394807](https://doi.org/10.1109/TLT.2024.3394807), publicado no ano 2024, por que ele investiga a capacidade do ChatGPT de realizar uma avaliação automatica de perguntas criadas por estudantes, para analisar o nivel de compreensão dos estudantes, comparando sua performance com a de especialistas humanos.
+
 ## Materiais e Métodos
 
-1. O tipo de pesquisa adotado neste trabalho é ...., por que ...
-1. Os materiais utilizados neste trabalho são .... [ex.: software, computadores, dados, etc]
-1. Os métodos empregados neste trabalho são .... [ex.: método de amostragem, método de análise de correlação, método de agrupamento, etc]
-1. As métricas de avaliação são .... [ex.: tempo de resposta, taxa de erros, mutation score, cobertura, latência, etc]
-1. As etapa de execução do trabalho são .... [listar as etapa de execução]
+1. O tipo de pesquisa adotado neste trabalho é a quantitativa, por que seria realizada uma pesquisa em cima de um grupo de 30 estudantes, divididos em 2 grupos, onde seu aprendisado no seu respectivo tópico de estudo seria medido com base na média aritimedica de acertos dos alunos de cada grupo.
+2. Os materiais utilizados neste trabalho são: Tópicos que serão estudados pelos participantes: Recursividade e estrutura de dados, como pilhas, filas e listas implementadas por células; ChatGPT como ferramenta de estudo do grupo 1, de estudo assistido por IA generativa; Youtube como ferramenta de estudo do grupo 2, de estudo assistido por video aulas.
+3. Os métodos empregados neste trabalho são .... [ex.: método de amostragem, método de análise de correlação, método de agrupamento, etc]
+4. As métricas de avaliação são .... [ex.: tempo de resposta, taxa de erros, mutation score, cobertura, latência, etc]
+5. As etapa de execução do trabalho são .... [listar as etapa de execução]
