@@ -25,10 +25,9 @@
 
 ## Trabalhos Relacionados
 
-1. O trabalho mais relacionado é "Students’ Experiences of Using ChatGPT in an Undergraduate Programming Course"(https://doi.org/10.1109/ACCESS.2024.3380909), publicado no ano ..., por que ....
-1. O segundo trabalho mais relacionado é .... , publicado no ano ..., por que ....
-1. O terceiro trabalho mais relacionado é ...., publicado no ano ...,  por que ....
-
+1. O trabalho mais relacionado é "Students’ Experiences of Using ChatGPT in an Undergraduate Programming Course" [10.1109/ACCESS.2024.3380909](https://doi.org/10.1109/ACCESS.2024.3380909), publicado no ano 2024, por que ele analisa a experiencia e feedback dos estudantes de um curso de programação, com foco no uso do ChatGPT para auxiliar seu aprendizado.
+2. O segundo trabalho mais relacionado é "Does ChatGPT Help Novice Programmers Write Better Code? Results From Static Code Analysis" [10.1109/ACCESS.2024.3445432](https://doi.org/10.1109/ACCESS.2024.3445432), publicado no ano 2024, por que ele investiga o impacto do ChatGPT na qualidade do codigo dos estudantes de um curso de programação.
+3. O terceiro trabalho mais relacionado é "Can Autograding of Student-Generated Questions Quality by ChatGPT Match Human Experts?" [10.1109/TLT.2024.3394807](https://doi.org/10.1109/TLT.2024.3394807), publicado no ano 2024, por que ele investiga a capacidade do ChatGPT de realizar uma avaliação automatica de perguntas criadas por estudantes, para analisar o nivel de compreensão dos estudantes, comparando sua performance com a de especialistas humanos.
 ## Materiais e Métodos
 
 1. O tipo de pesquisa adotado neste trabalho é ...., por que ...
