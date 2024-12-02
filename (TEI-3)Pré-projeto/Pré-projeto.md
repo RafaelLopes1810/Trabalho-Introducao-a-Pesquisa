@@ -31,8 +31,29 @@
 
 ## Materiais e Métodos
 
-1. O tipo de pesquisa adotado neste trabalho é a quantitativa, por que seria realizada uma pesquisa em cima de um grupo de 30 estudantes, divididos em 2 grupos, onde seu aprendisado no seu respectivo tópico de estudo seria medido com base na média aritimedica de acertos dos alunos de cada grupo.
-2. Os materiais utilizados neste trabalho são: Tópicos que serão estudados pelos participantes: Recursividade e estrutura de dados, como pilhas, filas e listas implementadas por células; ChatGPT como ferramenta de estudo do grupo 1, de estudo assistido por IA generativa; Youtube como ferramenta de estudo do grupo 2, de estudo assistido por video aulas.
-3. Os métodos empregados neste trabalho são: Método de Amostragem, onde 30 alunos foram selecionados e divididos aleatoriamente entre dois grupos; Método de Ensino Assistido, onde o grupo 1 utilizou o ChatGPT como método de ensino, e o grupo 2 utilizou o Youtube como fonte de estudo; Método de Avaliação por Questionário, no qual um questionario com questoes dos seus devidos topicos seria aplicado para cada aluno após o periodo de estudos; Método de Análise Estatística, em que, para avaliar os resultados, seria calculada a média aritmética das pontuações obtidas por cada grupo no questionário; Método Comparativo, em que os resultados dos dois grupos seriam comparados para identificar diferenças significativas na aprendizagem, analisando os impactos dos métodos de ensino.
-4. As métricas de avaliação são: Taxa de acertos, que analisa a porcentagem da média de acertos de cada grupo de estudantes.
-5. As etapa de execução do trabalho são (1) seleção dos participantes; (2) divisão dos participantes em 2 grupos com seus temas; (3) periodo de estudo dos topicos (4) aplicação dos questionarios, (5) analise da média dos resultados de cada aluno com seu respectivo grupo (6) comparação direta com os resultados das analises dos resultados de cada grupo.
+O tipo de pesquisa adotado neste trabalho é quantitativa, pois será realizada uma investigação com base em dados numéricos obtidos através da análise do desempenho de 40 estudantes divididos em dois grupos. O aprendizado de cada grupo será medido com base na média aritmética dos acertos dos alunos em um questionário, após o período de estudo. A abordagem quantitativa é indicada em pesquisas de avaliação de métodos pedagógicos, pois possibilita a obtenção de resultados mensuráveis e comparáveis (Creswell, 2014).
+
+Materiais utilizados:
+Os tópicos abordados durante o estudo são recursividade e estruturas de dados como pilhas, filas e listas. Esses tópicos são comumente tratados no ensino de algoritmos e programação (Knuth, 1997), sendo fundamentais para o desenvolvimento do pensamento lógico e a compreensão de algoritmos eficientes.
+Para o grupo 1, será utilizada a ferramenta ChatGPT como assistente de estudo, baseada em IA generativa, uma tecnologia que tem mostrado resultados promissores em tutoria personalizada (Vaswani et al., 2017).
+Já o grupo 2 utilizará o YouTube como fonte de estudo, a partir de videoaulas sobre os mesmos tópicos. A utilização de videoaulas no processo de aprendizagem tem sido amplamente discutida, sendo apontada como uma ferramenta eficaz para a compreensão de conteúdos complexos (Berk, 2009).
+
+Métodos empregados:
+O método de amostragem utilizado neste estudo será o sorteio aleatório dos 30 participantes, o que garante uma distribuição imparcial entre os dois grupos e assegura a representatividade da amostra (Kothari, 2004).
+O método de ensino assistido será a principal estratégia pedagógica, com o grupo 1 utilizando o ChatGPT como ferramenta de estudo assistido por IA e o grupo 2 utilizando o YouTube. Ambos os métodos têm se mostrado eficazes em diversos contextos educacionais, com o uso de IA aumentando a personalização e a interatividade no aprendizado (Luckin et al., 2016), e o uso de videoaulas sendo eficaz na promoção do aprendizado autônomo (Garrison, 2011).
+A avaliação por questionário será realizada após o período de estudo, para medir a retenção de conhecimento e o desempenho dos estudantes em relação aos tópicos abordados. A aplicação de questionários pós-intervenção é uma prática comum em pesquisas educacionais para avaliar a eficácia de diferentes métodos de ensino (Liu et al., 2016).
+A análise estatística será realizada para comparar os resultados dos dois grupos, calculando a média aritmética das pontuações obtidas. A utilização de testes estatísticos para comparar médias é uma prática padrão em estudos quantitativos, possibilitando a identificação de diferenças significativas entre os grupos (Field, 2013).
+O método comparativo será utilizado para comparar os resultados de aprendizagem dos dois grupos, com o objetivo de identificar as possíveis vantagens de um método de ensino sobre o outro, com base nas médias de acertos e nas análises estatísticas.
+
+Métricas de avaliação:
+A principal métrica de avaliação será a taxa de acertos, que mede a porcentagem de acertos de cada grupo em relação ao total de questões do questionário. A taxa de acertos é uma métrica amplamente utilizada em avaliações de desempenho acadêmico (Pintrich, 2003).
+
+Etapas de execução:
+
+Seleção dos participantes.
+Aplicação do teste 1
+Divisão por notas dos participantes em dois grupos, com os seus respectivos temas.
+Período de estudo dos tópicos (recursividade e estruturas de dados).
+Aplicação do teste 2.
+Análise da média dos resultados de cada aluno, com o respectivo grupo.
+Comparação dos resultados das análises entre os dois grupos.
